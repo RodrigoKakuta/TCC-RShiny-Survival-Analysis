@@ -1,9 +1,10 @@
 # TCC-RShiny-Survival-Analysis
 
-> **Simulação Interativa de Análise de Sobrevivência com Viés**
-> Aplicação desenvolvida em **R Shiny** para simular e visualizar o impacto da **censura** e da **remoção de observações** em curvas de sobrevivência de Kaplan-Meier.
+**Simulação Interativa de Análise de Sobrevivência com Viés**
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+Aplicação desenvolvida em **R Shiny** para simular e visualizar o impacto da **censura** e da **remoção de observações** em curvas de sobrevivência de Kaplan-Meier.
+
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![R](https://img.shields.io/badge/R-%3E%3D4.0.0-276DC3?logo=r)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Framework-blue?logo=rstudio)](https://shiny.rstudio.com/)
 
@@ -286,18 +287,16 @@ Contribuições são bem-vindas.
 
 # 📄 Licença
 
-Este projeto está licenciado sob a **Apache License 2.0**.
+Este projeto está licenciado sob a **GNU General Public License v3.0 (GPL-3.0)**.
 
-Permite:
+Isso significa que:
 
-* uso comercial
-* modificação
-* distribuição
+* ✅ O código pode ser usado, estudado e modificado livremente
+* ✅ Distribuição do código é permitida
+* ❗ Projetos derivados devem manter a **mesma licença GPL-3.0**
+* ❗ O código-fonte deve permanecer aberto
 
-Exige:
-
-* manutenção do aviso de licença
-* documentação de alterações
+Para mais detalhes, consulte o arquivo **LICENSE** neste repositório.
 
 ---
 
@@ -310,10 +309,10 @@ Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)** em Estatíst
 ### Contato
 
 GitHub
-https://github.com/rkatostats
+[https://github.com/rkatostats](https://github.com/RodrigoKakuta)
 
 Repositório do projeto
-https://github.com/rkatostats/LifeTime-Bias
+[https://github.com/rkatostats/LifeTime-Bias](https://github.com/RodrigoKakuta/TCC-RShiny-Survival-Analysis)
 
 ---
 
