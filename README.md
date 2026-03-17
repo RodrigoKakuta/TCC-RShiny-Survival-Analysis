@@ -30,7 +30,7 @@ Aplicação desenvolvida em **R Shiny** para simular e visualizar o impacto da *
 
 # 🔬 Sobre o Projeto
 
-**LifeTime-Bias** é uma aplicação interativa desenvolvida como parte do **Trabalho de Conclusão de Curso (TCC)** de **Rodrigo Reginato Kakuta Kato**, com foco na análise de **viés em estudos de sobrevivência causado por padrões de censura e remoção de observações**.
+A aplicação interativa desenvolvida como parte do **Trabalho de Conclusão de Curso (TCC)** de **Rodrigo Reginato Kakuta Kato**, com foco na análise de **viés em estudos de sobrevivência causado por padrões de censura e remoção de observações**.
 
 O projeto implementa uma interface gráfica intuitiva utilizando **R Shiny**, permitindo que pesquisadores e estudantes explorem visualmente como diferentes mecanismos de censura podem afetar estimativas de sobrevivência.
 
